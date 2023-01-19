@@ -1,3 +1,4 @@
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username) 
 - 👋 Hi, I’m @boonany
 - 👀 I’m interested  in everything that is conetced to web-dev and front-end by it self, self-study and self-improvement;
 - 🌱 I’m currently learning html/css, js, python and SQL;
