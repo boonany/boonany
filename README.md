@@ -1,8 +1,7 @@
 [![codewars](https://www.codewars.com/users/boonany/badges/large)](https://www.codewars.com/users/boonany) 
 - 👋 Hi, I’m @boonany
 - 👀 I’m interested  in everything that is conetced to web-dev and front-end by it self, self-study and self-improvement;
-- 🌱 I’m currently learning html/css, js, python and SQL;
-- 💞️ I’m looking to collaborate on simple open-source js projects;
+- 🌱 My working stack is: HTML/CSS, JS, TS, React, Redux, Express,js, PostgresSQL, Sequelize ORM
 - 📫 How to reach me slavpolichev@gmail.com
 
 <!---
